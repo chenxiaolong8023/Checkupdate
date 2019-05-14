@@ -30,7 +30,7 @@ python checkupdate.py
 ```python
 nohup python -u checkupdate.py > checkupdate.log 2>&1 &
 ```
-更多介绍请移步: https://www.cnblogs.com/Mifen2952277346/p/10849966.html
+更多介绍请移步: https://www.cnblogs.com/Mifen2952277346/p/10864517.html
 *****
 # 日志
 + 2019/5/4
