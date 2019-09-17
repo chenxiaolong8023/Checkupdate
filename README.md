@@ -2,11 +2,12 @@
 *****
 [![py35,py36](https://img.shields.io/badge/Python-3.5|3.6,3|7-green.svg)](https://github.com/Amd794)
 
-# 支持平台
+# 已支持平台
 - [x] 漫画台
 - [x] 土豪漫画
 - [x] 腾讯漫画
 - [x] 腾讯视频
+- [x] 可自行拓展
 
 # 安装
 下载代码
